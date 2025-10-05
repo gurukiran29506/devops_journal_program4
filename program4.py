@@ -1,6 +1,10 @@
-a=int(input("enter the first number:")
-b=int(input("enter the second number:")
+a=int(input("enter the first number:"))
+b=int(input("enter the second number:"))
 add=a+b
 subtract=a-b
+multiply=a*b
+divide=a/b
 print(f"addition=",add)
 print(f"subtraction=",subtract)
+print(f"multiplication=",multiply)
+print(f"division=",divide)
